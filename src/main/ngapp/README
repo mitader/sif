@@ -1,0 +1,5 @@
+#Set up the Development Environment
+- Install Node.js and npm if they are not already on your machine.
+
+#Serve the application:
+ng serve --open
